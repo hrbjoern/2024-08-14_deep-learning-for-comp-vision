@@ -1,5 +1,7 @@
+cvd.tar.gz
 /data
 *.keras
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
